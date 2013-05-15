@@ -9,6 +9,7 @@ import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.Menu;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
@@ -171,6 +172,11 @@ public class SensorActivity extends Activity implements SensorEventListener, OnC
 		}
 		
 	}
+	
+//	@Override
+//	public boolean onCreateOptionsMenu(Menu menu) {
+//		return super.onCreateOptionsMenu(menu);
+//	}
 	
 	/*
 	 * Sensor精度変更時
