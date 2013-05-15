@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SensorApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Xlabel">X = </string>
+    <string name="Ylabel">Y = </string>
+    <string name="Zlabel">Z = </string>
+    <string name="AZIMUTHlabel">Azimuth = </string>
+    <string name="PITCHlabel">Pitch = </string>
+    <string name="ROLLlabel">Roll = </string>
+    <string name="LUXlabel">Lux = </string>
+    <string name="DISTANCElabel">Distance = </string>
+    <string name="CELSIUSlabel">℃ = </string>
+    <string name="NOSENSOR">NoSensor</string>
+    <string name="SENSORSELECT">選んでね</string>
+    <string name="ACCELEROMETER">加速度</string>
+    <string name="GYROSCOPE">ジャイロスコープ</string>
+    <string name="GRAVITY">重力度</string>
+    <string name="LIGHT">照度</string>
+    <string name="LINEARACCELERATION">直線加速度</string>
+    <string name="MAGNETICFIELD">磁場</string>
+    <string name="ORIENTATION">方位</string>
+    <string name="PROXIMITY">近接</string>
+    <string name="TEMPERATURE">温度</string>
+    <string name="EXIT">EXIT</string>
+    <string name="BACK">戻る</string>
+
+</resources>
